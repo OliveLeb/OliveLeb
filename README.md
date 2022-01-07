@@ -2,7 +2,7 @@
 
 My name is Olivier Lebel and I am a web developer fullstack currently living between Rouen and Versailles, France.
 
-[![Olivier's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveleb&include_all_commits&count_private=true&show_icons=true)](https://github.com/OliveLeb/OliveLeb)
+[![Olivier's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveleb&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/OliveLeb/OliveLeb)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveleb&layout=compact)](https://github.com/OliveLeb/OliveLeb)
 
 <!--
