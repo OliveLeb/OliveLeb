@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello everybody 👋
+
+My name is Olivier Lebel and I am a web developer fullstack currently living between Rouen and Versailles, France.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveleb)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **OliveLeb/OliveLeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
