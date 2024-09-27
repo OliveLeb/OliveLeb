@@ -1,6 +1,6 @@
 ### Hello everybody 👋
 
-My name is Olivier Lebel and I am a web developer fullstack currently living in Anglet, France.
+My name is Olivier Lebel and I am a web developer fullstack currently living in Massy, France.
 
 ### Languages and Tools:  
 
